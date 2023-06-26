@@ -1,0 +1,86 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Base Level.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Base Level.tmx": {
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1389,
+                "y": 273.5
+            }
+        },
+        "Door Og.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Door.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level Elements.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Other Door.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lpc-doors-animated-2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lpc-doors-animated-3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "outside.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.75
+        },
+        "outside_bg.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/aribh/Documents/HUCORP/The Batman/The Batman/assets/map",
+    "last.imagePath": "C:/Users/aribh/Documents/HUCORP/The Batman/The Batman/assets",
+    "map.height": 35,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 60,
+    "openFiles": [
+        "Base Level.tmx",
+        "Level Elements.tsx",
+        "outside_bg.tsx"
+    ],
+    "project": "Batman.tiled-project",
+    "recentFiles": [
+        "outside_bg.tsx",
+        "Level Elements.tsx",
+        "Base Level.tmx",
+        "outside.tsx",
+        "lpc-doors-animated-3.tsx",
+        "lpc-doors-animated-2.tsx",
+        "Door Og.tsx",
+        "Other Door.tsx",
+        "Door.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
